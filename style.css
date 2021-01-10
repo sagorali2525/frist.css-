@@ -1,0 +1,37 @@
+.box-model{
+	border: 10px solid rgb(9, 255, 0);
+}
+.heading{
+	width: 500px;
+	margin:50px auto;
+	background-color: rgb(118, 169, 235);
+	border:5px solid rgb(233, 14, 197);
+	padding: 60px;
+	color: rgb(211, 24, 17);
+
+}
+
+.heading3{
+	color: rgb(250, 11, 11);
+	font-size: 20px;
+	font-weight: 400;
+	text-align: justify;
+	text-decoration: underline;
+}
+
+.heading1{
+	color: rgb(230, 11, 250);
+	font-size: 20px;
+	font-weight: 400;
+	text-align: justify;
+	text-decoration: line-through;
+}
+
+.heading2{
+	color: rgb(11, 67, 250);
+	font-size: 20px;
+	font-weight: 400;
+	text-align: justify;
+	text-decoration:overline;
+}
+
